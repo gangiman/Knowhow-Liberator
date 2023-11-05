@@ -4,3 +4,5 @@ networkx==3.1
 matplotlib==3.7.2
 jupyterlab==4.0.3
 jupytext==1.14.7
+langchain_experimental==0.0.37
+python-dotenv==1.0.0
